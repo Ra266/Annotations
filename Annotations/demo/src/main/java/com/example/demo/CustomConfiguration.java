@@ -14,7 +14,7 @@ class CustomConfiguration {
     public Student getStudent1()
     {
         System.out.println("Spring calll.. in config bean of student");
-        return new Student("Satyam Jaiswal");
+        return new Student("Shubham yadav");
     }
 
     @Bean("Rahul")
